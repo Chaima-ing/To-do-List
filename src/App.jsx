@@ -3,7 +3,7 @@ import ToDo from './components/ToDo'
 
 const App = () => {
   return (
-    <div>
+    <div className='bg-stone-900'>
       <ToDo/>
     </div>
   )
