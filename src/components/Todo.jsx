@@ -9,6 +9,12 @@ const ToDo = () => {
           <img className='w-8' src={todo_icon} alt="" />
           <h1 className='text-3xl font-semibold'>To-Do List</h1>
       </div>
+
+      {/* input box */}
+       <div>
+          <input type="text" placeholder='Add your task'/>
+          <button>ADD +</button>
+       </div>
     </div>
   )
 }
