@@ -18,3 +18,10 @@ React (Frontend Framework)
 Tailwindcss (Styling)
 
 Local Storage 
+
+## Installation & Setup
+- install the zip file
+- run `cd /path/to/To-do-List-master`
+- run `npm install`
+- install tailwindcss with the command `npm install tailwindcss @tailwindcss/vite`
+- run the project `npm run dev`
