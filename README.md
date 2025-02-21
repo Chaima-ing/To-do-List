@@ -1,7 +1,7 @@
 # To-do-List
 A simple and efficient To-Do List application built with React to help users organize their tasks.
 
-# # Features
+## Features
 ✅ Add new tasks.
 
 ✅ Mark tasks as completed.
@@ -12,7 +12,7 @@ A simple and efficient To-Do List application built with React to help users org
 
 ✅ Responsive design.
 
-# # Technologies Used
+## Technologies Used
 React (Frontend Framework)
 
 Tailwindcss (Styling)
